@@ -1,0 +1,13 @@
+pydantic
+langchain
+langgraph
+langchain-core
+langchain-community
+python-dotenv
+langchain-openai
+langchain-groq
+langchain-tavily
+tavily-python
+arxiv
+wikipedia
+faiss-cpu
